@@ -1,10 +1,4 @@
 
- /******************************************
-* Name: Coral Malachi
-* ID: 314882853
-* Course Exercise Group: 07
-* Exercise name: ex51
-******************************************/
 
 #include <stdio.h>
 #include <signal.h>
